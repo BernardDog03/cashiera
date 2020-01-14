@@ -77,5 +77,7 @@ switch(c){
  
 }
 System.out.println("youre total is Rp"+price);
-    }
+System.out.println("your payment is Rp"+50.000);
+System.out.println("your change is Rp"+(50.000-price));    
+}
 }
